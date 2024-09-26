@@ -1,0 +1,16 @@
+2024-09-25 12:50:49,224 [main]  INFO com.megasena.Leitura:34 - Lendo arquivo...
+2024-09-25 12:50:57,679 [AWT-EventQueue-0]  INFO com.megasena.Leitura:159 - Iniciando contagem de vezes que cada numero se repete.
+2024-09-25 12:51:02,637 [AWT-EventQueue-0]  INFO com.megasena.Leitura:192 - Iniciando funcao de contar vezes que nao teve 6 ganhadores
+2024-09-25 12:51:04,581 [AWT-EventQueue-0]  INFO com.megasena.Leitura:203 - Iniciando funcao maior e menor acerto (4)
+2024-09-25 12:51:06,235 [AWT-EventQueue-0]  INFO com.megasena.Leitura:221 - Iniciando funcao maior e menor acerto (5)
+2024-09-25 12:51:07,788 [AWT-EventQueue-0]  INFO com.megasena.Leitura:221 - Iniciando funcao maior e menor acerto (5)
+2024-09-25 12:51:12,611 [AWT-EventQueue-0]  INFO com.megasena.Leitura:352 - Iniciando funcao sorteio de numeros aleatorios
+2024-09-25 12:51:15,078 [AWT-EventQueue-0]  INFO com.megasena.Leitura:352 - Iniciando funcao sorteio de numeros aleatorios
+2024-09-25 12:51:17,520 [AWT-EventQueue-0]  INFO com.megasena.Leitura:352 - Iniciando funcao sorteio de numeros aleatorios
+2024-09-25 12:51:20,807 [AWT-EventQueue-0]  INFO com.megasena.Leitura:352 - Iniciando funcao sorteio de numeros aleatorios
+2024-09-25 12:51:23,815 [AWT-EventQueue-0]  INFO com.megasena.Leitura:352 - Iniciando funcao sorteio de numeros aleatorios
+2024-09-25 12:51:26,457 [AWT-EventQueue-0]  INFO com.megasena.Leitura:352 - Iniciando funcao sorteio de numeros aleatorios
+2024-09-26 09:48:21,472 [main]  INFO com.megasena.Leitura:34 - Lendo arquivo...
+2024-09-26 09:50:22,760 [main]  INFO com.megasena.Leitura:34 - Lendo arquivo...
+2024-09-26 09:50:34,182 [AWT-EventQueue-0]  INFO com.megasena.Leitura:192 - Iniciando funcao de contar vezes que nao teve 6 ganhadores
+2024-09-26 09:50:37,695 [AWT-EventQueue-0]  INFO com.megasena.Leitura:159 - Iniciando contagem de vezes que cada numero se repete.
